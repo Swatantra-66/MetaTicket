@@ -1,0 +1,1 @@
+// WalletSidebar.jsx content goes here
