@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-white;
+}
+
+button {
+  @apply rounded-lg px-4 py-2 font-medium;
+}
